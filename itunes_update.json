@@ -1,0 +1,86 @@
+{
+    "resultCount": 1,
+    "results": [
+        {
+            "advisories": [],
+            "appletvScreenshotUrls": [],
+            "artistId": 380033836,
+            "artistName": "HubSpot, Inc.",
+            "artistViewUrl": "https://itunes.apple.com/us/developer/hubspot-inc./id380033836?uo=4",
+            "artworkUrl100": "http://is5.mzstatic.com/image/thumb/Purple91/v4/a1/7a/18/a17a18aa-c902-bdbc-327a-c3acb65d555e/source/100x100bb.jpg",
+            "artworkUrl512": "http://is5.mzstatic.com/image/thumb/Purple91/v4/a1/7a/18/a17a18aa-c902-bdbc-327a-c3acb65d555e/source/512x512bb.jpg",
+            "artworkUrl60": "http://is5.mzstatic.com/image/thumb/Purple91/v4/a1/7a/18/a17a18aa-c902-bdbc-327a-c3acb65d555e/source/60x60bb.jpg",
+            "averageUserRating": 4.0,
+            "averageUserRatingForCurrentVersion": 3.5,
+            "bundleId": "com.hubspot.CRMAppRelease",
+            "contentAdvisoryRating": "4+",
+            "currency": "USD",
+            "currentVersionReleaseDate": "2017-01-11T10:01:34Z",
+            "description": "Everything you love about HubSpot in one place...your pocket!\n- Digest: Manage your full HubSpot stack in one powerful app.\n- Marketing: The power of inbound marketing goes where you go.\n- Sales: Your sales team performance is in the palm of your hand.\n- CRM: Every deal in your funnel, every contact in your queue.",
+            "features": [
+                "iosUniversal"
+            ],
+            "fileSizeBytes": "187668480",
+            "formattedPrice": "Free",
+            "genreIds": [
+                "6000",
+                "6007"
+            ],
+            "genres": [
+                "Business",
+                "Productivity"
+            ],
+            "ipadScreenshotUrls": [
+                "http://a2.mzstatic.com/us/r30/Purple122/v4/f2/74/b1/f274b12f-f105-eaaf-56a8-d8cb07c45bd1/sc1024x768.jpeg"
+            ],
+            "isGameCenterEnabled": false,
+            "isVppDeviceBasedLicensingEnabled": true,
+            "kind": "software",
+            "languageCodesISO2A": [
+                "EN"
+            ],
+            "minimumOsVersion": "9.0",
+            "price": 0.0,
+            "primaryGenreId": 6000,
+            "primaryGenreName": "Business",
+            "releaseDate": "2016-04-27T15:33:13Z",
+            "releaseNotes": "- HubSpot now works on your iPad.\n- Bug fix for Tasks.",
+            "screenshotUrls": [
+                "http://a5.mzstatic.com/us/r30/Purple91/v4/b8/4f/8d/b84f8dc5-59cd-9199-8824-1a092ac82bdd/screen696x696.jpeg",
+                "http://a4.mzstatic.com/us/r30/Purple82/v4/7b/5d/3f/7b5d3f9b-41a1-03b4-49ed-b58e5fc71a4d/screen696x696.jpeg",
+                "http://a4.mzstatic.com/us/r30/Purple91/v4/2f/0d/e8/2f0de840-0db8-cd0f-db4d-157d993cfa70/screen696x696.jpeg",
+                "http://a1.mzstatic.com/us/r30/Purple122/v4/bb/fd/13/bbfd1341-ab3b-7a16-f6e5-fc2d84ed54d1/screen696x696.jpeg",
+                "http://a3.mzstatic.com/us/r30/Purple91/v4/6d/da/7f/6dda7f38-3b9e-ded5-0cf7-de1254e2809b/screen696x696.jpeg"
+            ],
+            "sellerName": "HubSpot",
+            "sellerUrl": "http://hubspot.com",
+            "supportedDevices": [
+                "iPad2Wifi",
+                "iPad23G",
+                "iPhone4S",
+                "iPadThirdGen",
+                "iPadThirdGen4G",
+                "iPhone5",
+                "iPodTouchFifthGen",
+                "iPadFourthGen",
+                "iPadFourthGen4G",
+                "iPadMini",
+                "iPadMini4G",
+                "iPhone5c",
+                "iPhone5s",
+                "iPhone6",
+                "iPhone6Plus",
+                "iPodTouchSixthGen"
+            ],
+            "trackCensoredName": "HubSpot (Marketing, CRM & Sales)",
+            "trackContentRating": "4+",
+            "trackId": 1107711722,
+            "trackName": "HubSpot (Marketing, CRM & Sales)",
+            "trackViewUrl": "https://itunes.apple.com/us/app/hubspot-marketing-crm-sales/id1107711722?mt=8&uo=4",
+            "userRatingCount": 124,
+            "userRatingCountForCurrentVersion": 12,
+            "version": "2.8.6",
+            "wrapperType": "software"
+        }
+    ]
+}
